@@ -38,3 +38,8 @@ This project simulates the behavior of a simple harmonic oscillator (e.g., a mas
    ```bash
    git clone https://github.com/your-username/simple-harmonic-oscillator.git
    cd simple-harmonic-oscillator
+
+
+### Output
+![image](https://github.com/user-attachments/assets/450a680b-d874-465a-bab8-15c0a75ad59e)
+
