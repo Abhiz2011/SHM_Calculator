@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1725165175 source:c:\c++\shm\main.cpp
+	<iostream>
+	<cmath>
+	<vector>
+	<iomanip>
+
